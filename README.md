@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 - 🔭 Sogang Univ. 
-- 🌱 Studying Frontend / Machine Learning
+- 🌱 Studying Machine Learning and LLM Applications
