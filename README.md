@@ -35,5 +35,6 @@
 </div>
 
 <br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ruth1701)](https://solved.ac/ruth1701)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ruth1701)](https://solved.ac/ruth1701)
 
