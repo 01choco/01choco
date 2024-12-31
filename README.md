@@ -33,3 +33,5 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ruth1701)](https://solved.ac/ruth1701)
