@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 B.S. in Sogang Univ. 
+- 🔭 B.S. in Biology/CSE, Sogang Univ.
+- ✨ M.S. Candidate in AI, Sogang Univ  
 - 🌱 Studying Machine Learning & LLM Applications
 
 ### Stacks 📚 
